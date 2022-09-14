@@ -1,0 +1,47 @@
+.opiniao {
+    width: 1215px;
+    height: 404px;
+    font-family:'Inter', sans-serif;
+    background: rgba(196, 25, 25, 0.03);;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    place-content: center;
+    border-radius: 16px;
+    margin-top: 5em;
+}
+
+.opiniao__container {
+    display: flex;
+    justify-content: center;
+}
+
+.opiniao__texto {
+    text-align: center;
+}
+
+.opiniao__texto h1 {
+    font-size: 14px;
+    color: #8E2424;
+    font-weight: 600;
+}
+
+.opiniao__texto p {
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.opiniao__usuario span {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#usuario {
+    padding: 1em;
+}
+
+#profissao {
+    font-size: 14px;
+    font-weight: 400;
+    color: #667085;
+}

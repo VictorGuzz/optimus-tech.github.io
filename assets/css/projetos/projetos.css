@@ -1,0 +1,30 @@
+.projetos {
+    display: flex;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    justify-content: center;
+}
+
+.projetos__container {
+    padding-left: 4em;
+    padding-right: 3em;
+    padding-bottom: 12em;
+}
+
+.projetos__numero {
+    color: #8E2424;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+.projetos__titulo {
+    color: black;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.projetos__texto {
+    color: #667085;
+    font-family: 'Inter', sans-serif;
+}

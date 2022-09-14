@@ -1,0 +1,30 @@
+.talentos__container {
+    text-align: center;
+}
+
+.talentos__vagas {
+    color: #8E2424;
+    font-size: 14px;
+    background-color: rgba(142, 36, 36, 0.05);;
+    font-family:'Inter', sans-serif;
+    font-weight: 500;
+    width: 101px;
+    margin-left: 48%;
+    border-radius: 16px;
+    height: 23px;
+}
+
+.talentos__titulo {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    padding-top: 1em;
+}
+
+.talentos__texto {
+    color: #667085;
+    font-family: 'Inter', sans-serif;
+}
+
+.talentos__imagem {
+    padding: 3em;
+}

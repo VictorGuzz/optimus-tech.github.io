@@ -1,0 +1,40 @@
+.salarios {
+    font-family:'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.salarios__container {
+    width: 768px;
+    height: 92px;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 24px 24px 28px;
+    margin-top: 2em;
+}
+
+.salarios__profissao {
+    width: 768px;
+    padding: 24px 24px 28px;
+    margin-top: 2em;
+}
+
+.salarios__profissional {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 3em;
+}
+
+.salarios__valor {
+    font-size: 16px;
+    font-weight: 500;
+    color: #667085;
+}
+
+.salarios__valor-2 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #667085;
+    padding-left: 2em;
+}

@@ -1,0 +1,36 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.nav__menu{
+    margin-right: 23em;
+}
+
+.nav__menu a{
+    color: var(--text-color);
+    text-decoration: none;
+    margin-right: 2em;
+}
+
+button{
+    padding: 0.8rem 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    background: none;
+    color: var(#667085);
+    font-size: 0.9rem;
+}
+
+button#nav__botao{
+    background-color: #8E2424;
+    color: #FFF;
+}
+
+.nav__entrar{
+    border: #FFF;
+}
